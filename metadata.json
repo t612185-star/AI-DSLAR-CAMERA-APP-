@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI DSLR & Color Master",
+  "description": "A professional-grade AI camera application featuring DSLR simulation and advanced generative color changing capabilities powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
